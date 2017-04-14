@@ -1,0 +1,3 @@
+[submodule "Ali"]
+	path = Ali
+	url = git@github.com:purplearrow/Ali.git
